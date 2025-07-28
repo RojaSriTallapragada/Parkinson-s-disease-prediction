@@ -26,10 +26,10 @@ cd Parkinson-s-disease-prediction
 pip install -r requirements.txt
 python parkinsons_prediction.py
 ```
-**## 📁 Dataset**
+## 📁 Dataset
 UCI Parkinson’s Disease Dataset
 
-**## 📊 Results**
+## 📊 Results
 Accuracy: ~92% using SVM
 
 Confusion Matrix and classification report included
