@@ -25,3 +25,26 @@ git clone https://github.com/RojaSriTallapragada/Parkinson-s-disease-prediction.
 cd Parkinson-s-disease-prediction
 pip install -r requirements.txt
 python parkinsons_prediction.py
+
+**## 📁 Dataset**
+UCI Parkinson’s Disease Dataset
+
+**## 📊 Results**
+Accuracy: ~92% using SVM
+
+Confusion Matrix and classification report included
+
+🧪 Future Improvements
+Try more models like Random Forest, XGBoost
+
+Deploy using Flask for real-time predictions
+
+Add hyperparameter tuning (GridSearchCV)
+
+👩‍💻 Author
+RojaSri Tallapragada
+📧 rojasritallapragada@gmail.com
+🔗 GitHub Profile
+
+📜 License
+MIT License
